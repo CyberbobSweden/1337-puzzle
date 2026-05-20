@@ -527,7 +527,7 @@ export default function App() {
       {/* Theme-specific overlays */}
       {scanLines}
       {scanAnim}
-      {gridLines}
+      {gridOverlay}
 
       {/* Era transition screen */}
       {showTransition && (
