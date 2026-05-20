@@ -1,6 +1,6 @@
 # 1337 / 43 — Mathematical Exploit Puzzle
 
-A hacker-themed math puzzle game inspired by [FyraNollFyra](https://github.com/nkholski/fyranollfyra_js13k).
+A hacker-themed math puzzle game
 
 Place number and operator tiles into equation slots so that each equation evaluates to its target value — **1337** or **43**.
 
